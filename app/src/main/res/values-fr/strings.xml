@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab5</string>
+    <string name="send_label">Envoyer</string>
+    <string name="receive_label">Recevoir</string>
+    <string name="text_input_hint">Message</string>
+    <string name="message_edit_label">La ligne sélectionnée est : </string>
+    <string name="dialog_option_label">Voulez-vous retirer cet élément?</string>
+    <string name="positive_button">Oui</string>
+    <string name="negative_button">Non</string></resources>

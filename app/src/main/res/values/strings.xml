@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab5</string>
+    <string name="send_label">Send</string>
+    <string name="receive_label">Receive</string>
+    <string name="text_input_hint">Message</string>
+    <string name="message_edit_label">The selected row is : </string>
+    <string name="dialog_option_label">Would you like to delete this element?</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+</resources>
